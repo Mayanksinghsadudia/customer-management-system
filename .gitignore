@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+key.json
+credentials*.json
+token*.json
+*.db
+*.sqlite*
+results.csv
+.idea/
